@@ -15,7 +15,7 @@ while True:
 
 '''
 
-Notes for self (or others if learning Pyhton):
+Notes for self (or others if learning Python):
 
 'for _ in range(length):' '_' means whatever. It is an 'idc'. range is using what was determined from length
 '.choice' will select a random character from the chars variable
