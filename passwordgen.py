@@ -13,7 +13,7 @@ while True:
         print('Enter a number!')
 
 
-(*
+'''
 
 Notes for self (or others if learning Pyhton):
 
@@ -22,4 +22,4 @@ Notes for self (or others if learning Pyhton):
 'end=' will determine what to end the function with
 'st.ascii_letters + st.digits + st.punctuation' are ascii letters | numbers | symbols
 
-*)        
+'''     
