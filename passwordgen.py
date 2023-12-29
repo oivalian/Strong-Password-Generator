@@ -5,7 +5,7 @@ chars = st.ascii_letters + st.digits + st.punctuation
 
 while True:
     try:
-        length = int(input('\nHow many characters would you like (Minimum 15 recommend)? >>> '))
+        length = int(input('\nPassword length (At least 15 is recommended) >>> '))
         for _ in range(length):       
             print(r.choice(chars), end='')      
                                                 
